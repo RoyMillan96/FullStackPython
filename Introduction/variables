@@ -1,0 +1,24 @@
+# Dato:
+    # unidad minima de un programa (cifra, conjunto de letras, conjunto de caracteres, etc...)
+
+
+# Variable:
+    # un espacio en memoria,  que se refiere a un dato 
+    - Reglas para crear variables:
+        # No iniciar con número 
+        # no puede llevar caracteres especiales
+        # no puede llevar caracteres reservadas del lenguaje
+        # no debe haber espacios (edad years = 33)
+        # Nombres descriptivos
+    
+# Constantes:
+    # su valor nunca cambia
+
+# Tipos de datos:
+    # Enteros
+    # Flotantes
+    # Cadena de textos
+
+# para conocer las palabras reservadas de python 
+    - import keyword
+    - print(keyword.kwlist)
