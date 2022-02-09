@@ -22,3 +22,7 @@
 # para conocer las palabras reservadas de python 
     - import keyword
     - print(keyword.kwlist)
+
+# que es un algoritmo?
+    - secuencia de pasos que resuelven un problema y es la base de la programación
+    
